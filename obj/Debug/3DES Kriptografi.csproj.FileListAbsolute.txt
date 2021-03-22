@@ -1,0 +1,10 @@
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\obj\Debug\3DES Kriptografi.csprojAssemblyReference.cache
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\obj\Debug\_3DES_Kriptografi.Form1.resources
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\obj\Debug\_3DES_Kriptografi.Properties.Resources.resources
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\obj\Debug\3DES Kriptografi.csproj.GenerateResource.cache
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\obj\Debug\3DES Kriptografi.csproj.CoreCompileInputs.cache
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\bin\Debug\3DES Kriptografi.exe.config
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\bin\Debug\3DES Kriptografi.exe
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\bin\Debug\3DES Kriptografi.pdb
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\obj\Debug\3DES Kriptografi.exe
+E:\Kuliah\Kriptografi\3DES Kriptografi\3DES Kriptografi\obj\Debug\3DES Kriptografi.pdb
